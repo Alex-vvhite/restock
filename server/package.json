@@ -1,0 +1,13 @@
+{
+  "name": "restaurant-stock-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "import:state": "node import-state.mjs"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  },
+  "engines": { "node": ">=20" }
+}

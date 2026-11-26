@@ -1,0 +1,578 @@
+﻿{
+    "seededAt":  "2026-11-14T15:56:27.2769368Z",
+    "importWarnings":  [
+                           {
+                               "row":  36,
+                               "reason":  "Missing unit or quantity fields",
+                               "name":  "Лешик пупок",
+                               "location":  "Доставка Яндекс"
+                           }
+                       ],
+    "movements":  [
+
+                  ],
+    "items":  [
+                  {
+                      "id":  "химия-r5",
+                      "name":  "Азелит",
+                      "recommendedStock":  10,
+                      "stock":  20,
+                      "sourceRow":  5,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r6",
+                      "name":  "Тетрасепт",
+                      "recommendedStock":  5,
+                      "stock":  5,
+                      "sourceRow":  6,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r7",
+                      "name":  "Септа",
+                      "recommendedStock":  10,
+                      "stock":  7.5,
+                      "sourceRow":  7,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r8",
+                      "name":  "Грилл (для нагара и жира)",
+                      "recommendedStock":  5,
+                      "stock":  5,
+                      "sourceRow":  8,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r10",
+                      "name":  "Для стекл",
+                      "recommendedStock":  10,
+                      "stock":  20,
+                      "sourceRow":  10,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r11",
+                      "name":  "Для пола",
+                      "recommendedStock":  10,
+                      "stock":  10,
+                      "sourceRow":  11,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r12",
+                      "name":  "Мыло",
+                      "recommendedStock":  5,
+                      "stock":  10.5,
+                      "sourceRow":  12,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r13",
+                      "name":  "Для посуды",
+                      "recommendedStock":  15,
+                      "stock":  20,
+                      "sourceRow":  13,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r14",
+                      "name":  "Ника-2",
+                      "recommendedStock":  5,
+                      "stock":  0,
+                      "sourceRow":  14,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r15",
+                      "name":  "Белизна",
+                      "recommendedStock":  5,
+                      "stock":  5,
+                      "sourceRow":  15,
+                      "unit":  "л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r16",
+                      "name":  "Доместос",
+                      "recommendedStock":  2,
+                      "stock":  1.5,
+                      "sourceRow":  16,
+                      "unit":  "Л",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "химия-r17",
+                      "name":  "Пемолюкс",
+                      "recommendedStock":  2,
+                      "stock":  2,
+                      "sourceRow":  17,
+                      "unit":  "Уп",
+                      "locationId":  "химия"
+                  },
+                  {
+                      "id":  "бар-r5",
+                      "name":  "Трубочки Б",
+                      "recommendedStock":  5,
+                      "stock":  6,
+                      "sourceRow":  5,
+                      "unit":  "уп.",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "бар-r6",
+                      "name":  "Трубочки М",
+                      "recommendedStock":  3,
+                      "stock":  10,
+                      "sourceRow":  6,
+                      "unit":  "уп.",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "бар-r7",
+                      "name":  "Стаканы 400",
+                      "recommendedStock":  30,
+                      "stock":  350,
+                      "sourceRow":  7,
+                      "unit":  "шт.",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "бар-r8",
+                      "name":  "Стаканы 200",
+                      "recommendedStock":  30,
+                      "stock":  400,
+                      "sourceRow":  8,
+                      "unit":  "шт.",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "бар-r9",
+                      "name":  "Шпажки",
+                      "recommendedStock":  0.2,
+                      "stock":  1,
+                      "sourceRow":  9,
+                      "unit":  "уп.",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "бар-r10",
+                      "name":  "Стакан пластик",
+                      "recommendedStock":  60,
+                      "stock":  300,
+                      "sourceRow":  10,
+                      "unit":  "шт.",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "бар-r11",
+                      "name":  "Бутылка (1пак/70)",
+                      "recommendedStock":  2,
+                      "stock":  2,
+                      "sourceRow":  11,
+                      "unit":  "пак",
+                      "locationId":  "бар"
+                  },
+                  {
+                      "id":  "кухня-r5",
+                      "name":  "Формы для фонданов",
+                      "recommendedStock":  50,
+                      "stock":  150,
+                      "sourceRow":  5,
+                      "unit":  "шт",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r6",
+                      "name":  "Фасовочные пакеты 30x38",
+                      "recommendedStock":  0.25,
+                      "stock":  6,
+                      "sourceRow":  6,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r7",
+                      "name":  "Перчатки L +",
+                      "recommendedStock":  6,
+                      "stock":  6,
+                      "sourceRow":  7,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r8",
+                      "name":  "Перчатки M +",
+                      "recommendedStock":  6,
+                      "stock":  6,
+                      "sourceRow":  8,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r9",
+                      "name":  "Кондитерские мешки +",
+                      "recommendedStock":  3,
+                      "stock":  3,
+                      "sourceRow":  9,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r10",
+                      "name":  "Вакуумные пакеты 40x30",
+                      "recommendedStock":  50,
+                      "stock":  50,
+                      "sourceRow":  10,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r11",
+                      "name":  "Вакуумные пакеты 25x15/20",
+                      "recommendedStock":  50,
+                      "stock":  50,
+                      "sourceRow":  11,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "кухня-r12",
+                      "name":  "Вакууные пакеты 15x10",
+                      "recommendedStock":  50,
+                      "stock":  50,
+                      "sourceRow":  12,
+                      "unit":  "уп.",
+                      "locationId":  "кухня"
+                  },
+                  {
+                      "id":  "мойка-r5",
+                      "name":  "Полотенца торк",
+                      "recommendedStock":  5,
+                      "stock":  16,
+                      "sourceRow":  5,
+                      "unit":  "шт.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r6",
+                      "name":  "Туалетная бумага (гостевая) +",
+                      "recommendedStock":  10,
+                      "stock":  33,
+                      "sourceRow":  6,
+                      "unit":  "шт.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r7",
+                      "name":  "Пакеты 120л +",
+                      "recommendedStock":  2,
+                      "stock":  3,
+                      "sourceRow":  7,
+                      "unit":  "уп.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r8",
+                      "name":  "Пакеты 180л +",
+                      "recommendedStock":  3,
+                      "stock":  6,
+                      "sourceRow":  8,
+                      "unit":  "уп.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r9",
+                      "name":  "Губки +",
+                      "recommendedStock":  5,
+                      "stock":  6,
+                      "sourceRow":  9,
+                      "unit":  "уп.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r10",
+                      "name":  "Моп (насадка) +",
+                      "recommendedStock":  4,
+                      "stock":  5,
+                      "sourceRow":  10,
+                      "unit":  "шт.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r11",
+                      "name":  "Губки (металл) +",
+                      "recommendedStock":  5,
+                      "stock":  4,
+                      "sourceRow":  11,
+                      "unit":  "шт.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r12",
+                      "name":  "Микррофибра +",
+                      "recommendedStock":  30,
+                      "stock":  35,
+                      "sourceRow":  12,
+                      "unit":  "шт.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r13",
+                      "name":  "Полотно +",
+                      "recommendedStock":  2,
+                      "stock":  2,
+                      "sourceRow":  13,
+                      "unit":  "шт.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r14",
+                      "name":  "Пакеты 30л +",
+                      "recommendedStock":  2,
+                      "stock":  2,
+                      "sourceRow":  14,
+                      "unit":  "уп.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r15",
+                      "name":  "Пакеты 160л +",
+                      "recommendedStock":  5,
+                      "stock":  5,
+                      "sourceRow":  15,
+                      "unit":  "уп.",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "мойка-r16",
+                      "name":  "Туалетная бумага наша",
+                      "recommendedStock":  1,
+                      "stock":  0,
+                      "sourceRow":  16,
+                      "unit":  "Уп",
+                      "locationId":  "мойка"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r5",
+                      "name":  "Крафотвые пакеты М +",
+                      "recommendedStock":  200,
+                      "stock":  661,
+                      "sourceRow":  5,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r6",
+                      "name":  "Крафотвые пакеты Б +",
+                      "recommendedStock":  200,
+                      "stock":  540,
+                      "sourceRow":  6,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r7",
+                      "name":  "Контейнеры Б",
+                      "recommendedStock":  300,
+                      "stock":  350,
+                      "sourceRow":  7,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r8",
+                      "name":  "Контейнеры М",
+                      "recommendedStock":  300,
+                      "stock":  350,
+                      "sourceRow":  8,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r9",
+                      "name":  "Фольга",
+                      "recommendedStock":  5,
+                      "stock":  5,
+                      "sourceRow":  9,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r10",
+                      "name":  "Целофановая пленка",
+                      "recommendedStock":  4,
+                      "stock":  4,
+                      "sourceRow":  10,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r11",
+                      "name":  "Крышка на большой контейнер +",
+                      "recommendedStock":  400,
+                      "stock":  670,
+                      "sourceRow":  11,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r12",
+                      "name":  "Крышка на маленький контейнер +",
+                      "recommendedStock":  300,
+                      "stock":  1200,
+                      "sourceRow":  12,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r13",
+                      "name":  "Z-ки +",
+                      "recommendedStock":  35,
+                      "stock":  35,
+                      "sourceRow":  13,
+                      "unit":  "уп.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r14",
+                      "name":  "Контейнеры (круглый крафт) +",
+                      "recommendedStock":  35,
+                      "stock":  70,
+                      "sourceRow":  14,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r15",
+                      "name":  "Крышки на круглый крафт +",
+                      "recommendedStock":  35,
+                      "stock":  70,
+                      "sourceRow":  15,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r16",
+                      "name":  "Чековая лента большая +",
+                      "recommendedStock":  30,
+                      "stock":  21,
+                      "sourceRow":  16,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r17",
+                      "name":  "Чекова лента маленькая +",
+                      "recommendedStock":  20,
+                      "stock":  32,
+                      "sourceRow":  17,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r18",
+                      "name":  "Супники +",
+                      "recommendedStock":  250,
+                      "stock":  297,
+                      "sourceRow":  18,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r19",
+                      "name":  "Коробки под пиццу",
+                      "recommendedStock":  100,
+                      "stock":  140,
+                      "sourceRow":  19,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r20",
+                      "name":  "Салфтеки красные +",
+                      "recommendedStock":  10,
+                      "stock":  19,
+                      "sourceRow":  20,
+                      "unit":  "уп.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r22",
+                      "name":  "Пакет майка для пиццы",
+                      "recommendedStock":  2,
+                      "stock":  3,
+                      "sourceRow":  22,
+                      "unit":  "уп.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r23",
+                      "name":  "Перчатки прозрачные",
+                      "recommendedStock":  2,
+                      "stock":  2,
+                      "sourceRow":  23,
+                      "unit":  "уп.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r24",
+                      "name":  "Термоэтикетка",
+                      "recommendedStock":  6,
+                      "stock":  4,
+                      "sourceRow":  24,
+                      "unit":  "шт.",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r25",
+                      "name":  "Набор №5",
+                      "recommendedStock":  1,
+                      "stock":  2,
+                      "sourceRow":  25,
+                      "unit":  "кр",
+                      "locationId":  "доставка-яндекс"
+                  },
+                  {
+                      "id":  "доставка-яндекс-r26",
+                      "name":  "Соусники",
+                      "recommendedStock":  3,
+                      "stock":  3,
+                      "sourceRow":  26,
+                      "unit":  "Уп",
+                      "locationId":  "доставка-яндекс"
+                  }
+              ],
+    "locations":  [
+                      {
+                          "id":  "химия",
+                          "name":  "Химия"
+                      },
+                      {
+                          "id":  "бар",
+                          "name":  "Бар"
+                      },
+                      {
+                          "id":  "кухня",
+                          "name":  "Кухня"
+                      },
+                      {
+                          "id":  "мойка",
+                          "name":  "Мойка"
+                      },
+                      {
+                          "id":  "доставка-яндекс",
+                          "name":  "Доставка Яндекс"
+                      }
+                  ]
+}
