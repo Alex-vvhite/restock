@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+server/data/state.json
+server/data/state.json.tmp
+.env
+.env.*
+!.env.example
+**/node_modules/
+server/data/*.backup*
